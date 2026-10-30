@@ -1,0 +1,306 @@
+DOCUMENT TITLE: People | Rishabh Centre for Research and Innovation in Clean Energy (RCRICE) | IIT Jodhpur
+OFFICIAL SOURCE URL: https://www.iitj.ac.in/people/List?dept=rcrice&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd
+FETCHED AT (UTC): 2026-10-30T06:36:53+00:00
+
+Faculty Members
+Abdul Gafoor Shaik
+Associate Professor
+email
+saadgafoor[at]iitj[dot]ac[dot]in
+call
+0291 280 1359
+school
+PhD: National Institute of Technology Warangal
+Ambesh Dixit
+Professor
+email
+ambesh[at]iitj[dot]ac[dot]in
+call
+0291 280 1605
+school
+PhD: Wayne State University
+Amit Kumar Rathi
+Assistant Professor
+email
+akrathi[at]iitj[dot]ac[dot]in
+call
+0291 280 1656
+school
+PhD (Structural Engg): Indian Institute of Technology Guwahati
+school
+MTech(Civil Engg): Indian Institute of Technology Guwahati
+Wind Energy Infrastructure, Condition Assessment and Health Monitoring, Vibration Control, Reliability-based Design Optimization
+Angan Sengupta
+Associate Professor
+email
+angan[at]iitj[dot]ac[dot]in
+call
+0291 280 1706
+school
+PhD Indian Institute of Technology Bombay
+Molecular Simulations, Fire Science &amp; Engg., Modelling &amp; Simulation, Thermodynamics, Transport Phenomena
+Arun Kumar R
+Associate Professor
+email
+arunkr[at]iitj[dot]ac[dot]in
+call
+0291 280 1516
+school
+PhD: Indian Institute of Technology Madras
+Ashish Pathak
+Assistant Professor
+email
+apathak[at]iitj[dot]ac[dot]in
+call
+0291 280 1525
+school
+PhD: University of Massachusetts Dartmouth
+Bharat Singh Rajpurohit
+Professor
+email
+bsr[at]iitj[dot]ac[dot]in
+call
+0291 280 1379
+school
+PhD: Indian Institute of Technology Kanpur
+Power Electronics Application to Power Systems, Electric Drives
+Deepak Kumar M Fulwani
+Professor
+email
+df[at]iitj[dot]ac[dot]in
+call
+0291 280 1355
+school
+PhD: Indian Institute of Technology Bombay
+Hardik Kothadia
+Associate Professor
+email
+hardikkothadia[at]iitj[dot]ac[dot]in
+call
+0291 280 1512
+school
+PhD: Indian Institute of Technology Bombay
+Harshal Akolekar
+Assistant Professor
+email
+harshal[dot]akolekar[at]iitj[dot]ac[dot]in
+call
+0291 280 1527
+school
+PhD: University of Melbourne Australia
+Himanshu Dave
+Assistant Professor
+email
+himanshudave[at]iitj[dot]ac[dot]in
+call
+0291 280 1534
+school
+PhD: Indian Institute of Science Bangalore
+Jitendra Kumar
+Assistant Professor
+email
+jitendrak[at]iitj[dot]ac[dot]in
+call
+0291 280 1609
+school
+PhD: Indian Institute of Technology Kanpur
+Photovoltaic Devices, Materials for Energy Applications, Flexible Electronic Devices and Micro-fabrication Technologies
+Kirti Sankhala
+Assistant Professor
+email
+kirtisankhala[at]iitj[dot]ac[dot]in
+call
+0291 280 1718
+Krunal M Gangawane
+Assistant Professor
+email
+krunalg[at]iitj[dot]ac[dot]in
+call
+0291 280 1721
+school
+PhD: Indian Institute of Technology Roorkee
+CFD, Thermal Energy Storage, Phase change materials, Lattice Boltzmann method
+Mahesh Kumar
+Professor
+email
+mkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1357
+school
+PhD: Indian Institute of Science Bangalore
+Solar Cells, Energy-efficient devices, Energy Storage Materials
+Nishant Kumar
+Assistant Professor
+email
+nishantkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1382
+school
+PhD; Indian Institute of Technology Delhi
+Power Electronics and Advanced Control; Power System Optimization; Renewable Energy Generation; Microgrid & EV; Cybersecurity for Electric Power Infrastructure
+Pradeep Kumar Dammala
+Assistant Professor
+email
+pkdammala[at]iitj[dot]ac[dot]in
+call
+0291 280 1655
+school
+PhD (Geotechnical Engg): Indian Institute of Technology Guwahati
+school
+MTech (Geotechnical Engg): Indian Institute of Technology Guwahati
+Offshore Wind Energy, Solar Park Resilience in Arid Deserts, Seismic Resilient Wind Energy, Soil Structure Interaction
+Prashant Kumar Gupta
+Assistant Professor
+email
+guptapk[at]iitj[dot]ac[dot]in
+call
+0291 280 1709
+school
+PhD: Indian Institute of Technology Kanpur
+Hydrogen Energy, Energy Storage, Electrocatalysis,
+Prodyut Ranjan Chakraborty
+Professor
+email
+pchakraborty[at]iitj[dot]ac[dot]in
+call
+0291 280 1508
+school
+PhD: Indian Institute of Science Bangalore
+Heat and mass transfer, Latent heat thermal energy storage for high temperature applications, Absorption Cooling, Active and passive thermal management, Flash evaporation for cooling and desalination applications
+Ramesh K Metre
+Associate Professor
+email
+rkmetre[at]iitj[dot]ac[dot]in
+call
+0291 280 1309
+school
+PhD: Indian Institute of Technology Kanpur
+Ravi Prakash Srivastava
+Assistant Professor
+email
+ravip[at]iitj[dot]ac[dot]in
+call
+0291 280 1553
+school
+PhD: Indian Institute of Technology Kanpur
+Ravi Yadav
+Assistant Professor
+email
+raviyee[at]iitj[dot]ac[dot]in
+call
+0291 280 1380
+school
+PhD: Indian Institute of Technology Kharagpur
+Sanhita Das
+Assistant Professor
+email
+sanhitadas[at]iitj[dot]ac[dot]in
+call
+0291 280 1666
+school
+PhD: Indian Institute of Science Bangalore
+Foldable solar panels, structural analysis,
+Shahab Ahmad
+Associate Professor
+email
+shahab[at]iitj[dot]ac[dot]in
+call
+0291 280 1617
+school
+PhD: Indian Institute of Technology Delhi
+Shree Prakash Tiwari
+Professor
+email
+sptiwari[at]iitj[dot]ac[dot]in
+call
+0291 280 1356
+school
+PhD: Indian Institute of Technology Bombay
+Souryabrata Mohapatra
+Assistant Professor
+email
+smohapatra[at]iitj[dot]ac[dot]in
+call
+0291 280 1428
+school
+PhD: University of Auckland
+Energy Economics, Clean Energy Transition, Inclusive Green Growth
+Srijan Sengupta
+Assistant Professor
+email
+srijansengupta[at]iitj[dot]ac[dot]in
+call
+0291 280 1557
+school
+PhD: Indian Institute of Technology Kharagpur
+Subrata Chakraborty
+Assistant Professor
+email
+subrata[at]iitj[dot]ac[dot]in
+call
+0291 280 1313
+school
+PhD: University of Zurich, Switzerland
+Sudipto Mukhopadhyay
+Associate Professor
+email
+smukhopadhyay[at]iitj[dot]ac[dot]in
+call
+0291 280 1511
+school
+PhD: Eindhoven University of Technology
+V Narayanan
+Associate Professor
+email
+vnara[at]iitj[dot]ac[dot]in
+call
+0291 280 1607
+school
+PhD: Indian Institute of Technology Kanpur
+Vikky Anand
+Assistant Professor
+email
+vikky[at]iitj[dot]ac[dot]in
+call
+0291 280 1710
+school
+PhD: Indian Institute of Technology Bombay
+Electro hydrodynamics, Membrane technology, Water/wastewater treatment, Water-in-oil emulsion
+Vineeth V
+Assistant Professor
+email
+vineeth[at]iitj[dot]ac[dot]in
+call
+0291 280 1399
+school
+PhD: Indian Institute of Technology Kanpur
+Power Systems, Active Distribution System Operational Planning, Smart Grids, Distributed Energy Resources, Optimization
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+.
+Last Updated : 30 Oct 2026 - 12:06 PM

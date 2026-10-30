@@ -1,0 +1,27 @@
+SOURCE_PDF: academic_regulations_5_Circular_IITJ_OA_C_2021-22_21_122_20.01.2022.pdf
+SOURCE_URL: https://www.iitj.ac.in/office-of-academics/en/academic-regulations
+DOCUMENT_DATE: 2022-01-20
+[[PAGE: 1]]
+Indian Institute of Technology Jodhpur
+Notification dated 20 January 2022
+Subject: Regulations for Joint Programmes in Medical Technologies
+1. The regulations for the dual degree and Ph.D. programme in Medical Technologies are attached as Annexure-I.
+2. The existing regulations of IIT Jodhpur approved for students registered from July 2019 are applicable for the joint programmes.
+3. Minimum CGPA/SGPA requirements for continuation in the programme, continuation of assistantship/fellowship, and graduation:
+
+Programme: Masters in Medical Technologies
+- Continuation in programme: CGPA 5.0.
+- Continuation of assistantship/fellowship: SGPA 6.0 (for first semester, SGPA at least 5).
+- For graduation: CGPA 5.
+
+Programme: Ph.D. in Medical Technologies
+- Continuation in programme: SGPA 6.5 (for first semester, SGPA at least 6).
+- Continuation of assistantship/fellowship: SGPA 6.5 (for first semester, SGPA at least 6).
+- For graduation: CGPA 7.5 at the completion of course work.
+
+Programme: Masters-Ph.D. in Medical Technologies
+- Continuation in programme: SGPA 6.5 (for first semester, SGPA at least 5).
+- Continuation of assistantship/fellowship: SGPA 6.5 (for first semester, SGPA at least 5).
+- For graduation: CGPA 7.0.
+
+Citation note: This text is a manual transcription of page 1 of the scanned official notification.

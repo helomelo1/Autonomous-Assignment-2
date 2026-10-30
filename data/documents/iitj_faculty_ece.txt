@@ -1,0 +1,230 @@
+DOCUMENT TITLE: People | Electronics Engineering | IIT Jodhpur
+OFFICIAL SOURCE URL: https://www.iitj.ac.in/People/List?dept=ece&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd
+FETCHED AT (UTC): 2026-10-30T06:35:57+00:00
+
+Faculty Members
+Aashish Mathur
+Associate Professor
+email
+aashishmathur[at]iitj[dot]ac[dot]in
+call
+0291 280 1362
+school
+Ph.D.: Indian Institute of Technology Delhi
+Optical Wireless Communications, Physical Layer Security, 5G and Beyond Communications
+Abhishek Sharma
+Assistant Professor
+email
+abhisheksharma[at]iitj[dot]ac[dot]in
+call
+0291 280 1388
+school
+PhD: Indian Institute of Technology Kanpur
+Antennas, Metamaterials, Metasurfaces, Electromagnetics, Millimeter-Wave/THz Circuits
+Ajay Agarwal
+Professor
+email
+ajayagarwal[at]iitj[dot]ac[dot]in
+call
+0291 280 1378
+school
+Ph. D.: Birla Institute of Technology and Science Pilani
+Microelectronics; Micro- Nano-technologies; Sensors; Micro-fluidics, Point-of-Care devices and Early diagnostics
+Akshay Moudgil
+Assistant Professor
+email
+akshaymoudgil[at]iitj[dot]ac[dot]in
+call
+0291 280 1383
+school
+Ph.D: Indian Institute of Technology Delhi
+Nano/Microelectronics, Sensors, Wearable Devices, Hybrid (Organic/Inorganic) Transistors, Bioelectronics, Optoelectronics, Printed Electronics
+Amandeep Kaur
+Assistant Professor
+email
+amandeepkaur[at]iitj[dot]ac[dot]in
+call
+0291 280 1368
+school
+Ph.D.: Indian Institute of Technology Delhi
+Analog and Mixed-Signal Circuit Design, Data Converters (ADC, DAC), High-speed circuits, CMOS image sensors
+Arani Ali Khan
+Assistant Professor
+email
+aakhan[at]iitj[dot]ac[dot]in
+call
+0291 280 1364
+school
+Ph.D.: Indian Institute of Technology Kharagpur
+RF and Microwave Engineering.
+Arpit Arvind Khandelwal
+Associate Professor
+email
+arpitkhandelwal[at]iitj[dot]ac[dot]in
+call
+0291 280 1363
+school
+Ph.D.: International Institute of Information Technology Hyderabad
+Internet of Things (IoT) and Photonics
+Arun Kumar Singh
+Associate Professor
+email
+singhak[at]iitj[dot]ac[dot]in
+call
+0291 280 1358
+school
+Ph.D.: Telecom Paris, France
+Wireless Communications, Communication Theory, Spread spectrum systems, and Satellite based navigation systems
+Bhupendra Singh Reniwal
+Assistant Professor
+email
+bhupendrar[at]iitj[dot]ac[dot]in
+call
+0291 280 1396
+school
+Ph.D: Indian Institute of Technology Indore
+Spintronic and Advanced Spin Based STTRAMs for Future Computing GPIO, CFIO, Design IBIS Model, ESD and its implications to overall IO functionality AI, Hardware Accelerators and IMC Circuits & Architectures Design Variation/Radiation Aware Preferential Design of Embedded Memory for Energy Efficient and Robust Space Applications
+Binod Kumar
+Assistant Professor
+email
+binod[at]iitj[dot]ac[dot]in
+call
+0291 280 1381
+school
+Ph. D.: Indian Institute of Technology Bombay
+Digital VLSI Design, VLSI CAD, Hardware Security
+Harshit Agarwal
+Associate Professor
+email
+agarwalh[at]iitj[dot]ac[dot]in
+call
+0291 280 1376
+school
+Ph. D.: Indian Institute of Technology Kanpur
+Semiconductor Device Modeling and Characterization, RF microelectronics, NVM, ESD Modeling
+Jai Narayan Tripathi
+Associate Professor
+email
+jai[at]iitj[dot]ac[dot]in
+call
+0291 280 1374
+school
+Ph.D.: Indian Institute of Technology Bombay
+High-Speed VLSI Systems, Signal Integrity, Power Integrity
+Lavi Tyagi
+Assistant Professor
+email
+lavityagi[at]iitj[dot]ac[dot]in
+call
+0291 280 1377
+school
+Ph.D.: Indian Institute of Technology Bombay
+II-V, II-VI Materials & Devices (Visible, NIR Detectors); Terahertz Generation & Detection Devices; Nanophotonic & Plasmonic Metamaterials; Microelectronic Interfaces of Hardware Security (Non-Invasive, Semi-Invasive, Invasive)
+Mahesh Kumar
+Professor
+email
+mkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1357
+school
+Ph.D.: Indian Institute of Science Bangalore
+2D materials, Sensors: Gas, Photo, Bio, Ions & Gamma Ray, Memristors
+Manoj Choudhary
+Professor
+email
+manoj[at]iitj[dot]ac[dot]in
+school
+Ph. D.: Indian Institute of Technology Kanpur
+Communication Systems (Wireless - 4G/5G/6G, Modem/WLAN/WPAN/UWB) and networks; System on Chip; Embedded Systems & Software; Image Sensors and signal processing; Internet of Things and smart homes; AI, ML and computer vision
+Manoj Gupta
+Assistant Professor
+email
+manojgupta[at]iitj[dot]ac[dot]in
+call
+0291 280 1365
+school
+PhD: Nanyang Technological University, Singapore
+Terahertz Communication, In-Plane Silicon Photonics, Metamaterials, Low-Dimensional Materials, Sensing Technologies, Hybrid Electronic-Photonic Integration
+Nitin Bhatia
+Associate Professor
+email
+nitin[at]iitj[dot]ac[dot]in
+call
+0291 280 1366
+school
+Ph.D.: Indian Institute of Technology Bombay
+Fiber Optics, Photonics, Multimode Interference devices, Multimode Optical Beams, Few mode fiber devices, Optical Sensors
+Pradyumna Kumar Bishoyi
+Assistant Professor
+email
+pradyumna[at]iitj[dot]ac[dot]in
+call
+0291 280 1400
+school
+Ph. D.: Indian Institute of Technology Kharagpur
+Wireless communication networks, Next-generation WiFi networks, Integrated Sensing and Communication (ISAC) networks, 5G/6G mobile networks, IoT networks, Network Economics, Game Theory and Mechanism Design.
+Rajlaxmi Chouhan
+Associate Professor
+email
+rajlaxmichouhan[at]iitj[dot]ac[dot]in
+call
+0291 280 1360
+school
+Ph.D.: Indian Institute of Technology Kharagpur
+Image processing, image quality assessment, noise-aided image enhancement, e-learning tools and techniques
+Saakshi Dhanekar
+Associate Professor
+email
+saakshi[at]iitj[dot]ac[dot]in
+call
+0291 280 1373
+school
+Ph.D.: Jamia Millia Islamia, Central University
+Nano-sensors for societal applications, device development, gas- and bio-sensors, MEMS, silicon-based devices
+Shree Prakash Tiwari
+Professor
+email
+sptiwari[at]iitj[dot]ac[dot]in
+call
+0291 280 1356
+school
+Ph.D.: Indian Institute of Technology Bombay
+Flexible Electronics, Microelectronics, Sustainable and Biodegradable Systems
+Suraj Srivastava
+Assistant Professor
+email
+surajsri[at]iitj[dot]ac[dot]in
+call
+0291 280 1387
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Sparse Signal Processing in 5G/6G Wireless Systems, mmWave and Tera-Hertz Communication, Orthogonal Time-Frequency Space (OTFS), Joint Radar and Communication (RadCom), Optimization and Machine Learning, Low resolution MIMO Communications
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+.
+Last Updated : 30 Oct 2026 - 12:05 PM

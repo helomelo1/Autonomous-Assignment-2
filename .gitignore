@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+chroma_db/
+unanswered_questions.csv
+evaluation/results*.csv

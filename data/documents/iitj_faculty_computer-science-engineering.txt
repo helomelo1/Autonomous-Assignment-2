@@ -1,0 +1,295 @@
+DOCUMENT TITLE: People | Computer Science & Engineering | IIT Jodhpur
+OFFICIAL SOURCE URL: https://www.iitj.ac.in/People/List?dept=computer-science-engineering&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd
+FETCHED AT (UTC): 2026-10-30T06:35:25+00:00
+
+Faculty Members
+Aditi Sethia
+Assistant Professor jointly with Department of Mathematics
+email
+aditisethia[at]iitj[dot]ac[dot]in
+call
+0291 280 1481
+school
+PhD: Indian Institute of Technology, Gandhinagar
+Computational Social Choice, Algorithm Design
+Anand Mishra
+Assistant Professor
+email
+mishra[at]iitj[dot]ac[dot]in
+call
+0291 280 1264
+school
+PhD. International Institute of Information Technology Hyderabad
+Computer Vision; Deep Learning; Knowledge Graph; Multimodal Machine Learning
+Angshuman Paul
+Assistant Professor
+email
+apaul[at]iitj[dot]ac[dot]in
+call
+0291 280 1274
+school
+PhD. Indian Statistical Institute Kolkata
+Synthesis and Analysis of Medical Images; Deep Learning; Computer Vision
+Anushka Joshi
+Assistant Professor
+email
+anushkajoshi[at]iitj[dot]ac[dot]in
+call
+0291 280 1759
+school
+Ph.D.: Indian Institute of Technology Roorkee
+Deep Learning, Machine Learning, Earthquake Early Warning, Natural Hazards, Generative Artificial Intelligence, Timeseries
+Bikash Santra
+Assistant Professor
+email
+bikash[at]iitj[dot]ac[dot]in
+call
+0291 280 1763
+school
+PhD. Indian Statistical Institute, Kolkata
+Computer Vision, Deep Learning, Medical Image Analysis, and Multimodal AI
+Debasis Das
+Associate Professor
+email
+debasis[at]iitj[dot]ac[dot]in
+call
+0291 280 1261
+school
+Ph.D: Indian Institute of Technology, Patna
+Vehicular Ad-Hoc Networks (VANETs) / V2X systems, Artificial Intelligence (AI), Urban Intelligence, Distributed Deep Learning, Cryptography, and blockchain security
+Deeksha Varshney
+Assistant Professor
+email
+deeksha[at]iitj[dot]ac[dot]in
+call
+0291 280 1766
+school
+Ph.D.: Indian Institute of Technology Patna
+Natural Language Processing, Dialogue Systems, Reasoning and Interpretability in LLMs, SLMs, NLP for healthcare and climate, Multilingual LLMs
+Deepak Mishra
+Associate Professor
+email
+dmishra[at]iitj[dot]ac[dot]in
+call
+0291 280 1262
+school
+PhD. Indian Institute of Technology Delhi
+Machine Learning; Medical Image Analysis; Biomedical Circuits and Systems; Polarization Imaging
+Dip Sankar Banerjee
+Associate Professor
+email
+dipsankarb[at]iitj[dot]ac[dot]in
+call
+0291 280 1272
+school
+PhD. International Institute of Information Technology Hyderabad
+High Performance Computing; Computer Architecture; Data Analytics
+Divya Saxena
+Assistant Professor
+email
+divyasaxena[at]iitj[dot]ac[dot]in
+call
+0291 280 1761
+school
+Ph.D. Indian Institute of Technology Roorkee
+Generative Models, Foundation Models, Multimodal Learning, Federated Learning, Continual Learning
+Gaurav Harit
+Professor
+email
+gharit[at]iitj[dot]ac[dot]in
+call
+0291 280 1253
+school
+PhD. Indian Institute of Technology Delhi
+Image and Video Analysis
+Hardik Jain
+Assistant Professor
+email
+hardik[dot]jain[at]iitj[dot]ac[dot]in
+call
+0291 280 1276
+school
+PhD. Technical University Berlin, Germany
+3D Computer Vision, Edge AI, VR/AR Visualization
+Mayank Vatsa
+Professor
+email
+mvatsa[at]iitj[dot]ac[dot]in
+call
+0291 280 1266
+school
+PhD. West Virginia University
+Computer Vision; Machine Learning; Deep Learning; Biometrics; Trusted AI
+Mohit Kumar Jangid
+Assistant Professor
+email
+mjangid[at]iitj[dot]ac[dot]in
+call
+0291 280 1271
+school
+The Ohio State University, Columbus, USA
+Automated Formal Verification; System Security and Privacy; Trusted Execution Environment; Cryptography and Protocol Design
+Navchetan Awasthi
+Assistant Professor
+email
+navchetanawasthi[at]iitj[dot]ac[dot]in
+call
+0291 280 1768
+school
+Ph.D. : Indian Institute of Science, Bangalore
+Artificial Intelligence for Medical Imaging, Inverse problems in imaging, Medical image processing (reconstruction/analysis), Computational methods in medical imaging, Biomedical Optics, Ultrasound Imaging, Medical informatics
+Nitin Awathare
+Assistant Professor
+email
+nitina[at]iitj[dot]ac[dot]in
+call
+0291 280 1280
+school
+PhD. Indian Institute of Technology, Bombay
+Distributed Systems; Blockchain; Payment Channel Network; System Architecture
+Palash Das
+Assistant Professor
+email
+palashdas[at]iitj[dot]ac[dot]in
+call
+0291 280 1256
+school
+PhD. Indian Institute of Technology Guwahati
+Computer Architecture; Near-Memory Processing; Hardware Designing; Machine Learning Accelerators
+Pallavi Jain
+Associate Professor
+email
+pallavi[at]iitj[dot]ac[dot]in
+call
+0291 280 1270
+school
+PhD. Dayalbagh Educational Institute (Deemed University)
+Parameterized Complexity and Algorithms; Kernelization; Computational Social Choice Theory; Graph Algorithms
+Pratik Mazumder
+Assistant Professor
+email
+pratikm[at]iitj[dot]ac[dot]in
+call
+0291 280 1255
+school
+PhD. Indian Institute of Technology Kanpur
+Few-Shot Learning; Zero-Shot Learning; Incremental Learning; Deep Learning; Computer Vision; Machine Learning
+Richa Singh
+Professor
+email
+richa[at]iitj[dot]ac[dot]in
+call
+0291 280 1267
+school
+PhD. West Virginia University
+Machine Learning; Pattern Recognition; Biometrics; Forensics; Trusted AI
+Romi Banerjee
+Assistant Professor
+email
+romibanerjee[at]iitj[dot]ac[dot]in
+call
+0291 280 1269
+school
+PhD. Calcutta University, Indian Statistical Institute
+Embodied Cognitive Architectures; Artificial General Intelligence; Computing with Words; Natural Language Understanding
+Sidharth Ranjan
+Assistant Professor
+email
+sranjan[at]iitj[dot]ac[dot]in
+call
+0291 280 1767
+school
+Ph.D. Indian Institute of Technology (IIT) Delhi
+Natural Language Processing, Computational Psycholinguistics, Cognitive Science, Human Decision Making, Artificial Intelligence
+Sidharth Sharma
+Assistant Professor
+email
+sidharth[at]iitj[dot]ac[dot]in
+call
+0291 280 1258
+school
+Indian Institute of Technology Bombay
+Network Systems for AI at Scale; Self-Optimizing and Resilient Networks; Network Softwarization and Management; Performance Modelling
+Suchetana Chakraborty
+Associate Professor
+email
+suchetana[at]iitj[dot]ac[dot]in
+call
+0291 280 1273
+school
+PhD. Indian Institute of Technology Guwahati
+Wireless sensor and mobile ad hoc networks; Distributed Systems; Ubiquitous Computing; Edge Computing and IoT
+Sumit Kalra
+Associate Professor
+email
+sumitk[at]iitj[dot]ac[dot]in
+call
+0291 280 1259
+school
+PhD. Indian Institute of Technology Kanpur
+Software Architecture; Data Analytics; IoT; Smart Healthcare
+Susil Kumar Mohanty
+Assistant Professor
+email
+susilmohanty[at]iitj[dot]ac[dot]in
+call
+0291 280 1281
+school
+Ph.D. : Indian Institute of Technology Patna
+Blockchain and Off-chain Technologies, Payment Channel Networks, Cybersecurity and Privacy, Applied Cryptography, Zero-Knowledge Proofs, Decentralized & Secure AI/ML
+Tanmay Inamdar
+Assistant Professor
+email
+taninamdar[at]iitj[dot]ac[dot]in
+call
+0291 280 1268
+school
+PhD. The University of Iowa
+Approximation Algorithms; Computational Geometry; Parameterized Complexity; Graph Algorithms
+Vimal Raj Sharma
+Assistant Professor
+email
+vimalraj[at]iitj[dot]ac[dot]in
+call
+0291 280 1257
+school
+PhD. Indian Institute of Technology, Kanpur
+Complexity Theory; Graph Algorithms; Theoretical Computer Science
+Yashaswi Verma
+Associate Professor
+email
+yashaswi[at]iitj[dot]ac[dot]in
+call
+0291 280 1260
+school
+PhD. International Institute of Information Technology Hyderabad
+Applied Machine Learning; Computer Vision
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+.
+Last Updated : 30 Oct 2026 - 12:05 PM

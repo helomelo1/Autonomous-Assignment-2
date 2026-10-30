@@ -1,0 +1,250 @@
+DOCUMENT TITLE: People | Mathematics | IIT Jodhpur
+OFFICIAL SOURCE URL: https://www.iitj.ac.in/People/List?dept=mathematics&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd
+FETCHED AT (UTC): 2026-10-30T06:36:10+00:00
+
+Faculty Members
+Abhishek Sarkar
+Associate Professor
+email
+abhisheks[at]iitj[dot]ac[dot]in
+call
+0291 280 1461
+school
+Ph.D.: Tata Institute of Fundamental Research Centre for Applicable Mathematics
+Elliptic partial differential equations
+Aditi Sethia
+Assistant Professor Department of Mathematics jointly with Department of CSE
+email
+aditisethia[at]iitj[dot]ac[dot]in
+call
+0291 280 1481
+school
+PhD: Indian Institute of Technology, Gandhinagar
+Computational Social Choice, Algorithm Design
+Anuj Kumar
+Assistant Professor
+email
+anujkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1476
+school
+Ph.D.: Indiana University Bloomington, USA
+Mathematical Fluid Dynamics, Turbulence
+Bimal Mandal
+Assistant Professor
+email
+bimalmandal[at]iitj[dot]ac[dot]in
+call
+0291 280 1466
+school
+Ph. D.: Indian Institute of Technology Roorkee
+Cryptology, Cryptographic Boolean Functions
+Brahadeesh Sankarnarayanan
+Assistant Professor
+email
+brahadeesh[at]iitj[dot]ac[dot]in
+call
+0291 280 1469
+school
+Ph.D.: Indian Institute of Technology Bombay
+Extremal combinatorics and graph theory
+Dilpreet Kaur
+Associate Professor
+email
+dilpreetkaur[at]iitj[dot]ac[dot]in
+call
+0291 280 1460
+school
+Ph.D.: Indian Institute of Science Education and Research (IISER) Mohali
+Algebra (Group Theory)
+Divya Kappara
+Assistant Professor
+email
+divyak[at]iitj[dot]ac[dot]in
+call
+0291 280 1454
+school
+Ph.D.: University of Hyderabad
+Spatial statistics, measures of dependence, and infectious disease modelling.
+Gaurav Bhatnagar
+Professor
+email
+goravb[at]iitj[dot]ac[dot]in
+call
+0291 280 1457
+school
+Ph.D.: Indian Institute of Technology Roorkee
+Wavelet Analysis, Fractional Transform Theory, Multimedia Security, Image Processing, Information Fusion
+Kiran Meena
+Assistant Professor
+email
+kiranmeena[at]iitj[dot]ac[dot]in
+call
+0291 280 1467
+school
+Ph.D.: Banaras Hindu University, Varanasi
+Differential Geometry, Riemannian Geometry
+Kirankumar R Hiremath
+Professor
+email
+k[dot]r[dot]hiremath[at]iitj[dot]ac[dot]in
+call
+0291 280 1453
+school
+Ph.D.: University of Twente
+Theoretical, mathematical and computational aspects of wave-matter interactions
+Kriti Goel
+Assistant Professor
+email
+kgoel[at]iitj[dot]ac[dot]in
+call
+0291 280 1479
+school
+Ph.D: Indian Institute of Technology Bombay
+Commutative Algebra and Its Interaction with Combinatorics and Algebraic Geometry
+Kuntal Som
+Assistant Professor
+email
+kuntals[at]iitj[dot]ac[dot]in
+call
+0291 280 1474
+school
+PhD: Indian Institute of Technology Madras
+Mathematical optimization, Set-valued Optimization and Bilevel Programming
+Md Abu Talhamainuddin Ansary
+Assistant Professor
+email
+mdabutalha[at]iitj[dot]ac[dot]in
+call
+0291 280 1465
+school
+Ph. D.: Indian Institute of Technology Kharagpur
+Numerical Optimization; Multi-objective Optimization; Interval Analysis
+Moumita Mandal
+Assistant Professor
+email
+moumita[at]iitj[dot]ac[dot]in
+call
+0291 280 1459
+school
+Ph.D.: Indian Institute of Technology Kharagpur
+Numerical Functional Analysis, Integral Equation
+Nil Kamal Hazra
+Associate Professor
+email
+nilkamal[at]iitj[dot]ac[dot]in
+call
+0291 280 1458
+school
+Ph.D.: IISER Kolkata
+Reliability Theory, Applied Probability
+Pradip Sasmal
+Assistant Professor
+email
+psasmal[at]iitj[dot]ac[dot]in
+call
+0291 280 1462
+school
+Ph. D.: Indian Institute of Technology Hyderabad (IITH)
+Finite Frame Theory, Sparse Optimization, Mathematical Machine Learning
+Puneet Sharma
+Professor
+email
+puneet[at]iitj[dot]ac[dot]in
+call
+0291 280 1455
+school
+Ph.D.: Indian Institute of Technology Delhi
+Topological Dynamics, Low Dimensional Chaos
+Rajat Gupta
+Assistant Professor
+email
+rgupta[at]iitj[dot]ac[dot]in
+call
+0291 280 1480
+school
+PhD: Indian Institute of Technology Gandhinagar, India
+Analytic Number Theory, q-series, and Combinatorics.
+Sahil Gehlawat
+Assistant Professor
+email
+sahilg[at]iitj[dot]ac[dot]in
+call
+0291 280 1470
+school
+Ph.D. : Indian Institute of Science Bangalore
+Several Complex Variables, Theory of holomorphic foliations.
+Shaily Verma
+Assistant Professor
+email
+shailyverma[at]iitj[dot]ac[dot]in
+call
+0291 280 1475
+school
+Ph.D.: Indian Institute of Technology Delhi
+Graph Algorithms, Parameterized Complexity
+Subhash Bhagat
+Assistant Professor
+email
+sbhagat[at]iitj[dot]ac[dot]in
+call
+0291 280 1468
+school
+Ph. D.: Indian Statistical Institute
+Distributed algorithms for Swarm Robotics, Multi-agent systems, Distributed network algorithms
+Sukhendu Ghosh
+Associate Professor
+email
+sukhendu[dot]math[at]iitj[dot]ac[dot]in
+call
+0291 280 1463
+school
+Ph. D.: Indian Institute of Technology Madras
+Hydrodynamic Instability; Differential Equations; Lie Groups Applications; Dynamical Systems
+Tuhina Mukherjee
+Assistant Professor
+email
+tuhina[at]iitj[dot]ac[dot]in
+call
+0291 280 1464
+school
+Ph. D.: Indian Institute of Technology Delhi
+Analysis of Partial Differential Equations
+V V M S Chandramouli
+Associate Professor
+email
+chsarma[at]iitj[dot]ac[dot]in
+call
+0291 280 1456
+school
+Ph.D.: SUNY at StonyBrook, USA and RUG
+Dynamical Systems, Renormalization Theory, Dynamical Neuroscience
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+.
+Last Updated : 30 Oct 2026 - 12:06 PM

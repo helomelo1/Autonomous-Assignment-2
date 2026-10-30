@@ -1,0 +1,275 @@
+DOCUMENT TITLE: People | Mechanical Engineering | IIT Jodhpur
+OFFICIAL SOURCE URL: https://www.iitj.ac.in/People/List?dept=mechanical-engineering&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd
+FETCHED AT (UTC): 2026-10-30T06:36:12+00:00
+
+Faculty Members
+Ambuj Kumar Gautam
+Assistant Professor
+email
+ambujk[at]iitj[dot]ac[dot]in
+call
+0291 280 1540
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Non-Destructive Evaluation (NDE) and Structural Health Monitoring (SHM) for Industrial Infrastructure using Ultrasonic/EMAT Transducers, Pipeline Inspection Robotics, Quartz Crystal Microbalance (QCM) Sensors.
+Amrita Puri
+Assistant Professor
+email
+amritapuri[at]iitj[dot]ac[dot]in
+call
+0291 280 1518
+school
+PhD. Indian Institute of Technology Delhi
+Active noise control; Active vibration control; Experimental modal analysis; Acoustics
+Anand Krishnan Plappally
+Professor
+email
+anandk[at]iitj[dot]ac[dot]in
+call
+0291 280 1507
+school
+PhD. The Ohio State University
+Water, Water Management and Characterization of Engineered Materials
+Ankur Gupta
+Associate Professor
+email
+ankurgupta[at]iitj[dot]ac[dot]in
+call
+0291 280 1517
+school
+PhD. Indian Institute of Technology Kanpur
+Microsystems Fabrication
+Ashish Pathak
+Assistant Professor
+email
+apathak[at]iitj[dot]ac[dot]in
+call
+0291 280 1525
+school
+PhD. University of Massachusetts Dartmouth
+Fluid-Structure Interaction; Ocean Energy; Phase-Change Problems; Multiphase flows; High Performance Computing
+Atul Kumar Sharma
+Assistant Professor
+email
+atulksharma[at]iitj[dot]ac[dot]in
+call
+0291 280 1522
+school
+PhD. Indian Institute of Technology Roorkee
+Solid Mechanics; Continuum Mechanics; Computational Solid Mechanics; Mechanics of Soft Active Materials; Wave Propagation in Soft Active Composite Materials; Topology Optimization
+Avinash Kumar Agarwal
+Professor
+email
+akag[at]iitj[dot]ac[dot]in
+call
+0291 280 1012
+school
+Ph.D.: Indian Institute of Technology Delhi
+IC engines, combustion, conventional and alternative fuels, Methanol/ DME/ Hydrogen/ HCNG fuelled engine development, LCA and TCO analyses, Fuel sprays, Lubricating oil tribology, optical diagnostics, laser ignition, HCCI, particulates and emission control, and large bore engines
+B Ravindra
+Professor
+email
+ravib[at]iitj[dot]ac[dot]in
+call
+0291 280 1503
+school
+PhD. Indian Institute of Technology Kanpur
+Design, Dynamics, Vibration and Control
+Barun Pratiher
+Associate Professor
+email
+barun[at]iitj[dot]ac[dot]in
+call
+0291 280 1505
+school
+PhD. Indian Institute of Technology Guwahati
+Dynamics of Machines and Structures, Flexible Robots, MEMS, Rotor Dynamics, Nonlinear Oscillations
+Chandan Pandey
+Associate Professor
+email
+jscpandey[at]iitj[dot]ac[dot]in
+call
+0291 244 1514
+school
+PhD. Indian Institute of Technology Roorkee
+Welding, Heat treatment, Nuclear grade material, Mechanical behavior of materials, Material processing
+Gopal Dnyanba Gote
+Assistant Professor
+email
+gopaldgote[at]iitj[dot]ac[dot]in
+school
+Ph.D. : Indian Institute of Technology Bombay
+Manufacturing system development, Vacuum system, Electron beam, Rapid casting
+Gourhari Ghosh
+Assistant Professor
+email
+gourharighosh[at]iitj[dot]ac[dot]in
+call
+0291 280 1523
+school
+PhD. Indian Institute of Technology Kharagpur
+Ultra-precision Finishing; Laser-based Additive Manufacturing; Thermal Spray Coating; Tribology
+Hardik Kothadia
+Associate Professor
+email
+hardikkothadia[at]iitj[dot]ac[dot]in
+call
+0291 280 1512
+school
+PhD. Indian Institute of Technology Bombay
+Multiphase Flow, Boiling and Condensation, Heat Transfer, Fluid Mechanics, Gasification
+Hirshikesh
+Assistant Professor
+email
+hirshikesh[at]iitj[dot]ac[dot]in
+call
+0291 280 1528
+school
+PhD. Indian Institute of Technology Madras
+Computational Fracture Mechanics, Computational Solid Mechanics, Adaptive re-meshing strategy, Phase-field method
+Kaushal A Desai
+Professor
+email
+kadesai[at]iitj[dot]ac[dot]in
+call
+0291 280 1509
+school
+PhD. Indian Institute of Technology Delhi
+CAD/CAM, CNC Machine Tools, Smart Manufacturing, and Product Design and Development
+Mrityunjay Doddamani
+Associate Professor
+email
+mrityunjay[at]iitj[dot]ac[dot]in
+call
+0291 280 1533
+school
+Ph. D.: NITK Surathkal
+Additive Manufacturing, Composites, Foams, Secured Manufacturing
+Nipun Arora
+Assistant Professor
+email
+nipun[at]iitj[dot]ac[dot]in
+call
+0291 280 1519
+school
+PhD. Indian Institute of Technology Delhi
+Flapping wing aerodynamics; Fluid-structure interaction; CFD with Lattice Boltzmann method; Turbulence and moving boundary simulations; High performance computing; Electrorheological Fluids.
+Nitesh Arora
+Assistant Professor
+email
+nitesharora[at]iitj[dot]ac[dot]in
+call
+0291 280 1536
+school
+Ph.D.: University of Wisconsin-Madison
+Solid & Structural Mechanics; Metamaterials; Instabilities; Soft Materials; Magnetoactive Materials
+Pratyaksh Karan
+Assistant Professor
+email
+pratyakshkaran[at]iitj[dot]ac[dot]in
+call
+0291 280 1537
+school
+PhD: Indian Institute of Technology Kharagpur
+Modelling and applications of fluids and soft materials in micro and nano scale systems, Mathematical methods for applied mechanics, Characterization of mechanical behavior of materials, Transport and Mixing of Solutes
+Prodyut Ranjan Chakraborty
+Professor
+email
+pchakraborty[at]iitj[dot]ac[dot]in
+call
+0291 280 1508
+school
+PhD. Indian Institute of Science Bangalore
+Heat and mass transfer, Latent heat based storage device for high temperature applications, Alloy solidification process, Active and passive solar cooling systems, Electronic cooling
+Rahul Chhibber
+Professor
+email
+rahul_chhibber[at]iitj[dot]ac[dot]in
+call
+0291 280 1506
+school
+PhD. Indian Institute of Technology Roorkee
+Welding and joining, Manufacturing and materials processing, Mechanical behavior of materials
+Rajit Ranjan
+Assistant Professor
+email
+rajitranjan[at]iitj[dot]ac[dot]in
+call
+0291 280 1532
+school
+PhD. TU Delft, Netherlands
+Topology optimization, Additive Manufacturing, Computational modelling
+Riby Abraham Boby
+Assistant Professor
+email
+riby[at]iitj[dot]ac[dot]in
+call
+0291 280 1504
+school
+PhD. Indian Institute of Technology Delhi
+Robotics; Machine Vision; Robot calibration; Automated Visual Inspection; Industrial robots; Human-Machine Interface;
+Roshan Kumar Hota
+Assistant Professor
+email
+rkhota[at]iitj[dot]ac[dot]in
+call
+0291 280 1529
+school
+Ph. D.: Indian Institute of Technology Kharagpur
+Robotics, Robotic Manipulation, Grasping, Design of Robotic Hands, Mechanisms, Reinforcement Learning
+Shrutidhara Sarma
+Associate Professor
+email
+shrutidhara[at]iitj[dot]ac[dot]in
+call
+0291 280 1515
+school
+PhD. Indian Institute of Technology Guwahati
+Smart Respiration System, Flexible and stretchable sensors, Portable assistive devices, Self-powered sensors, Airframe sensing skin technologies, Structure- property relations, Electrospun nanofibers, Laminated nanocomposites, Thin film gauges
+Sudipto Mukhopadhyay
+Associate professor
+email
+smukhopadhyay[at]iitj[dot]ac[dot]in
+call
+0291 280 1511
+school
+PhD. Eindhoven University of Technology
+Experimental and Numerical Combustion, Clean Energy Technologies, Droplets and Sprays, Turbulent Flows
+Suril Shah
+Professor
+email
+surilshah[at]iitj[dot]ac[dot]in
+call
+0291 280 1510
+school
+PhD. Indian Institute of Technology Delhi
+Robotics, Multibody Dynamics and Control
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+.
+Last Updated : 30 Oct 2026 - 12:06 PM

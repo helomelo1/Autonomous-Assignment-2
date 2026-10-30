@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "category": "attendance_policy",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "What is the attendance requirement to sit in the Major exam?"
+  },
+  {
+    "id": 2,
+    "category": "attendance_policy",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "Can a student with attendance below 75% appear for examinations under the revised 2024 policy?"
+  },
+  {
+    "id": 3,
+    "category": "attendance_policy",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "What is the minimum attendance a student should maintain in a course under the July 2024 rules?"
+  },
+  {
+    "id": 4,
+    "category": "examination_policy",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "How many Minor and Major examinations are conducted under the 2024 examination policy?"
+  },
+  {
+    "id": 5,
+    "category": "examination_policy",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "What is the duration and minimum weightage of the Major examination?"
+  },
+  {
+    "id": 6,
+    "category": "examination_policy",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "How long is the Major examination according to the July 2024 examination circular?"
+  },
+  {
+    "id": 7,
+    "category": "registration_policy",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "What happens if a student does not register by the late-registration date?"
+  },
+  {
+    "id": 8,
+    "category": "registration_policy",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "To whom can a student appeal against deregistration due to late registration?"
+  },
+  {
+    "id": 9,
+    "category": "academic_calendar",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "When is the Semester I Major Examination scheduled in AY 2026-27?"
+  },
+  {
+    "id": 10,
+    "category": "academic_calendar",
+    "agent": "policy_agent",
+    "answerable": true,
+    "question": "Give the dates of the Semester I Major Examination for academic year 2026-27."
+  },
+  {
+    "id": 11,
+    "category": "course_slot",
+    "agent": "schedule_agent",
+    "answerable": true,
+    "question": "What is the slot for Autonomous Systems?"
+  },
+  {
+    "id": 12,
+    "category": "course_code",
+    "agent": "schedule_agent",
+    "answerable": true,
+    "question": "What is the course code for Autonomous Systems?"
+  },
+  {
+    "id": 13,
+    "category": "course_timing",
+    "agent": "schedule_agent",
+    "answerable": "partial",
+    "question": "What is the class timing of Autonomous Systems?"
+  },
+  {
+    "id": 14,
+    "category": "course_code",
+    "agent": "schedule_agent",
+    "answerable": true,
+    "question": "What is the course code for Computer Vision?"
+  },
+  {
+    "id": 15,
+    "category": "course_slot",
+    "agent": "schedule_agent",
+    "answerable": true,
+    "question": "Which slot is assigned to Computer Vision (CSL7360)?"
+  },
+  {
+    "id": 16,
+    "category": "course_instructor",
+    "agent": "schedule_agent",
+    "answerable": true,
+    "question": "Who teaches Computer Vision (CSL7360)?"
+  },
+  {
+    "id": 17,
+    "category": "course_details",
+    "agent": "schedule_agent",
+    "answerable": true,
+    "question": "How many credits does Computer Vision carry and what is its L-T-P structure?"
+  },
+  {
+    "id": 18,
+    "category": "email_draft",
+    "agent": "email_agent",
+    "answerable": true,
+    "question": "Write an email to the instructor of CSL7650 that I need sick leave for 2 days."
+  },
+  {
+    "id": 19,
+    "category": "email_draft",
+    "agent": "email_agent",
+    "answerable": true,
+    "question": "Draft a sick-leave email to the instructor of CSL7650 because I will be absent for two days."
+  },
+  {
+    "id": 20,
+    "category": "email_draft",
+    "agent": "email_agent",
+    "answerable": true,
+    "question": "Draft an email to the instructor of CSL7360 requesting permission for a make-up examination due to illness."
+  },
+  {
+    "id": 21,
+    "category": "email_draft",
+    "agent": "email_agent",
+    "answerable": true,
+    "question": "Write an email to the instructor of Computer Vision asking for help with the course."
+  },
+  {
+    "id": 22,
+    "category": "out_of_scope",
+    "agent": "orchestrator",
+    "answerable": false,
+    "question": "What are the available dining options on the campus?"
+  },
+  {
+    "id": 23,
+    "category": "out_of_scope",
+    "agent": "orchestrator",
+    "answerable": false,
+    "question": "What is the best way to reach the campus from Jodhpur city center?"
+  },
+  {
+    "id": 24,
+    "category": "out_of_scope",
+    "agent": "orchestrator",
+    "answerable": false,
+    "question": "What is the weather forecast in Jodhpur tomorrow?"
+  },
+  {
+    "id": 25,
+    "category": "out_of_scope",
+    "agent": "orchestrator",
+    "answerable": false,
+    "question": "Recommend a good restaurant near IIT Jodhpur."
+  }
+]

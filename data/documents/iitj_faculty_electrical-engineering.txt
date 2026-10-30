@@ -1,0 +1,203 @@
+DOCUMENT TITLE: People | Electrical Engineering | IIT Jodhpur
+OFFICIAL SOURCE URL: https://www.iitj.ac.in/People/List?dept=electrical-engineering&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd
+FETCHED AT (UTC): 2026-10-30T06:35:29+00:00
+
+Faculty Members
+Abdul Gafoor Shaik
+Associate Professor
+email
+saadgafoor[at]iitj[dot]ac[dot]in
+call
+0291 280 1359
+school
+Ph.D.: National Institute of Technology Warangal
+Protection of various components of Power System, Protection of Distribution Network with DG penetration, Power Quality assessment and mitigation in Distribution Networks with Renewable Energy Source penetration
+Amit Bhardwaj
+Associate Professor
+email
+amitb[at]iitj[dot]ac[dot]in
+call
+0291 280 1372
+school
+Ph.D.: Indian Institute of Technology Bombay
+Haptics
+Anil Kumar Tiwari
+Professor
+email
+akt[at]iitj[dot]ac[dot]in
+call
+0291 280 1353
+school
+Ph.D.: Indian Institute of Technology Kharagpur
+Electrical Engineering: Image Processing, Video Processing, and Signal Processing application in Bio-Medical
+Anoop Jain
+Assistant Professor
+email
+anoopj[at]iitj[dot]ac[dot]in
+call
+0291 280 1371
+school
+Ph.D.: Indian Institute of Science, Bangalore
+Cooperative Control, Multi-Agent Systems, Autonomous Systems, Robotics, Nonlinear Control, Cyber-Physical Systems
+Bandi Ravi Kumar
+Assistant Professor
+email
+ravik[at]iitj[dot]ac[dot]in
+call
+0291 280 1385
+school
+Ph.D.: Indian Institute of Technology (IIT) Kanpur
+Power system protection, Power system monitoring (State estimation, Low frequency oscillations monitoring, etc), Synchrophasors and their applications for power system, Optimization.
+Bharat Singh Rajpurohit
+Professor
+email
+bsr[at]iitj[dot]ac[dot]in
+call
+0291 280 1379
+school
+Ph.D: Indian Institute of Technology Kanpur
+Electric Drives; Power Electronics Applications to Power Systems; Grid Integration of Renewable Energy.
+Bhivraj Suthar
+Assistant Professor
+email
+bhivraj[at]iitj[dot]ac[dot]in
+call
+0291 280 1764
+Bio-inspired Robotics, Brain Robot Interface, Medical Robotics, Artificial Intelligence
+Deepak kumar M Fulwani
+Professor
+email
+df[at]iitj[dot]ac[dot]in
+call
+0291 280 1355
+school
+Ph.D.: Indian Institute of Technology Bombay
+Microgrids, Power Electronics, Control Theory
+Himanshu Kumar
+Assistant Professor
+email
+hkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1370
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Image and Video Processing, Computer Vision, Computational Imaging, Deep Learning
+Kunwar Aditya
+Associate Professor
+email
+kunwar[dot]aditya[at]iitj[dot]ac[dot]in
+call
+0291 280 1384
+school
+Ph. D.: Ontario Tech University (UOIT), Oshawa, ON, Canada
+Power Electronics, Automotive Electronics, Wireless Power Transfer, Transportation Electrification, Electrical Energy Storage Systems
+Manish Narwaria
+Associate Professor
+email
+narwaria[at]iitj[dot]ac[dot]in
+call
+0291 280 1367
+school
+Ph.D.: Nanyang Technological University
+Multimedia signal processing
+Niladri Sekhar Tripathy
+Assistant Professor
+email
+niladri[at]iitj[dot]ac[dot]in
+call
+0291 280 1375
+school
+Ph. D.: Indian Institute of Technology Delhi
+Dynamics and Control, Mechatronics and Cyber Physical Systems
+Nishant Kumar
+Associate Professor
+email
+nishantkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1382
+school
+Ph. D.: Indian Institute of Technology, Delhi
+Power Electronics and Advanced Control; Power System Optimization ; Renewable Energy Generation; Microgrid & EV; Cybersecurity for Electric Power Infrastructure
+Payal Vyankat Dahiwale
+Assistant Professor
+email
+payalvd[at]iitj[dot]ac[dot]in
+call
+0291 280 1397
+school
+Ph.D.: Indian Institute of Technology Bombay
+Electric Vehicle Integration, Smart Charging, Renewable Energy Integration, Battery Energy Storage Systems, Power System Optimization, Intelligent Energy Management, Smart Grids, Vehicle-to-Everything (V2X), Quantitative Analysis of Energy and EV Policies, Mathematical Modelling, Optimization, and Tools Development, Sustainable Energy Systems
+Rajendra Nagar
+Assistant Professor
+email
+rn[at]iitj[dot]ac[dot]in
+call
+0291 280 1369
+school
+Ph.D.: Indian Institute of Technology Gandhinagar
+Digital Geometry Processing, 3D Computer Vision, Multidimensional Signal Processing on 3D Shapes
+Ravi Yadav
+Assistant Professor
+email
+raviyee[at]iitj[dot]ac[dot]in
+call
+0291 280 1380
+school
+Ph. D.: Indian Institute of Technology Kharagpur
+Power system dynamics, Wide area monitoring systems, anomaly detection and characterization, AI/ML applications to power systems, and cyber-attack modelling and diagnosis
+Sandeep Kumar Yadav
+Professor
+email
+sy[at]iitj[dot]ac[dot]in
+call
+0291 280 1354
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Signal Processing, Machine Learning, Condition Monitoring, Image Processing
+Saurav Kumar
+Assistant Professor
+email
+sauravk[at]iitj[dot]ac[dot]in
+call
+0291 290 1386
+school
+PhD. The University of Texas at Dallas
+Wearable Robotics, Nonlinear Control, Modeling of legged robots, Prosthetic Legs, Exoskeletons, Biomechanics.
+Vineeth V
+Assistant Professor
+email
+vineeth[at]iitj[dot]ac[dot]in
+call
+0291 280 1399
+school
+Ph. D.: Indian Institute of Technology Kanpur
+Power Systems, Active Distribution System Operational Planning, Smart Grids, Distributed Energy Resources, Optimization
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+.
+Last Updated : 30 Oct 2026 - 12:05 PM
