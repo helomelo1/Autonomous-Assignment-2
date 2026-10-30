@@ -1,0 +1,151 @@
+question_id,category,run,question,expected_agent,actual_agent,expected_answerable,refusal,answer,sources,manual_accuracy,manual_groundedness,manual_refusal_correct
+1,attendance_policy,1,What is the attendance requirement to sit in the Major exam?,policy_agent,policy_agent,True,False,"The attendance requirement to sit in the Major exam is that a student should have full attendance in each course unless they take leave of absence for valid medical or bona fide reasons. Additionally, a student's attendance should not fall below 75% in a course [S1]. If a student remains absent from a class without sanctioned leave for more than two weeks, the course instructor may recommend de-registration of the student from the course [S1]. If a student is absent from all academic activities for four or more weeks (not necessarily contiguous) in a semester, with or without sanctioned leave, the student's registration will result in automatic semester withdrawal for all courses [S1].","academic_regulations_7.1_Circular_51Circular-No.-IITJOAACircular2024-2551682-dated-08-July-2024.pdf, p. 1",,,
+2,attendance_policy,1,Can a student with attendance below 75% appear for examinations under the revised 2024 policy?,policy_agent,policy_agent,True,False,"Under the revised 2024 policy, a student with attendance below 75% cannot appear for examinations. The policy states that a student's attendance should not fall below 75% in a course. If a student's attendance falls below 75% without any valid reason, the instructor can recommend de-registration from the course [S4]. Additionally, if a student remains absent from a class without sanctioned leave for more than two weeks, the course instructor may recommend de-registration of the student from the course [S1].","academic_regulations_7.1_Circular_51Circular-No.-IITJOAACircular2024-2551682-dated-08-July-2024.pdf, p. 1 | academic_regulations_7.1_Circular_51Circular-No.-IITJOAACircular2024-2551682-dated-08-July-2024.pdf, p. 2",,,
+3,attendance_policy,1,What is the minimum attendance a student should maintain in a course under the July 2024 rules?,policy_agent,policy_agent,True,False,"Under the July 2024 rules, the minimum attendance a student should maintain in a course is 75%. This is specified in the revised policy which states that a student's attendance should not fall below 75% in a course [S1].","academic_regulations_7.1_Circular_51Circular-No.-IITJOAACircular2024-2551682-dated-08-July-2024.pdf, p. 1",,,
+4,examination_policy,1,How many Minor and Major examinations are conducted under the 2024 examination policy?,policy_agent,policy_agent,True,False,"Under the 2024 examination policy, one Minor and one Major examination are conducted for evaluation in all Academic Programs [S1].","academic_regulations_7.2_Circular_52Circular-No.-IITJOAACircular2024-2552683-dated-08-July-2024.pdf, p. 1",,,
+5,examination_policy,1,What is the duration and minimum weightage of the Major examination?,policy_agent,policy_agent,True,False,"The duration of the Major examination is 3 hours, and the minimum weightage is not less than 40% of the overall evaluation [S1].","academic_regulations_7.2_Circular_52Circular-No.-IITJOAACircular2024-2552683-dated-08-July-2024.pdf, p. 1",,,
+6,examination_policy,1,How long is the Major examination according to the July 2024 examination circular?,policy_agent,policy_agent,True,False,The Major examination is 3 hours long according to the July 2024 examination circular [S1].,"academic_regulations_7.2_Circular_52Circular-No.-IITJOAACircular2024-2552683-dated-08-July-2024.pdf, p. 1",,,
+7,registration_policy,1,What happens if a student does not register by the late-registration date?,policy_agent,policy_agent,True,False,"If a student does not register by the late-registration date, they will be deregistered [S1]. The appeal against deregistration may be made to the Chairman, Senate through the Dean Academics. The Chairman Senate may permit the continuation of registration on payment of an appropriate fine [S1].","iitj_academic_regulations.txt, text chunk 5",,,
+8,registration_policy,1,To whom can a student appeal against deregistration due to late registration?,policy_agent,policy_agent,True,False,"A student can appeal against deregistration due to late registration to the Chairman, Senate through the Dean Academics [S3].","iitj_academic_regulations.txt, text chunk 5",,,
+9,academic_calendar,1,When is the Semester I Major Examination scheduled in AY 2026-27?,policy_agent,policy_agent,True,False,"The Semester I Major Examination in AY 2026-27 is scheduled from 4-6 January 2027, Mon-Wed [[S3]].","academic_calendar_Academic-Calendar-AY-2026-27-639178076336417495.pdf, p. 2",,,
+10,academic_calendar,1,Give the dates of the Semester I Major Examination for academic year 2026-27.,policy_agent,policy_agent,True,False,"The Academic Calendar for the Academic Year 2026-27 outlines key dates for registration and academic activities. For Semester I (2026-27), registration for continuing students is online from 03-10 May 2027, while physical reporting for continuing students is on 29 July 2026. Orientation for new PG students begins on 24 July 2026, and course registration for new PG students is from 24-28 July 2026. Classes commence on 30 July 2026. 
+
+For Semester II (2026-27), registration for continuing students is from 20-23 July 2026, and physical reporting for new PG students is on 31 December 2026. Orientation for new PG students is on 04 January 2027, and course registration for new PG students is from 1 January 2027. Classes commence on 4 January 2027. 
+
+The last date for fee payment by old students is 12 July 2026 for Semester I and 14 December 2026 for Semester II. The last date for fee payment for first-year UG students is 27 July 2026. 
+
+The Academic Calendar also includes other important dates such as the last date for conversion of Hosteller to Day Scholar and vice versa on 1 July 2026, and the finalization of new PG students' admission and creation of roll numbers on ERP on 10 July 2026. [S6] [S7]","academic_calendar_Academic-Calendar-AY-2026-27-639178076336417495.pdf, p. 1 | academic_calendar_Academic-Calendar-AY-2026-27-639178076336417495.pdf, p. 4",,,
+11,course_slot,1,What is the slot for Autonomous Systems?,schedule_agent,schedule_agent,True,False,"**Autonomous Systems** (CSL7650)
+- Programme/batch: UG4-AI
+- Department: Computer Science and Engineering
+- Instructor: Gaurav Harit
+- Credits: 3
+- L-T-P: 3-0-0
+- Slot: E
+- Source: courses(1).csv, row 399","courses(1).csv, row 399",,,
+12,course_code,1,What is the course code for Autonomous Systems?,schedule_agent,schedule_agent,True,False,"**Autonomous Systems** (CSL7650)
+- Programme/batch: UG4-AI
+- Department: Computer Science and Engineering
+- Instructor: Gaurav Harit
+- Credits: 3
+- L-T-P: 3-0-0
+- Slot: E
+- Source: courses(1).csv, row 399","courses(1).csv, row 399",,,
+13,course_timing,1,What is the class timing of Autonomous Systems?,schedule_agent,schedule_agent,partial,False,"**Autonomous Systems** (CSL7650)
+- Programme/batch: UG4-AI
+- Department: Computer Science and Engineering
+- Instructor: Gaurav Harit
+- Credits: 3
+- L-T-P: 3-0-0
+- Slot: E
+- Clock-time: Not listed for this course in the supplied CSV. The slot code alone does not establish a clock-time, and no general slot-to-time timetable was included in the uploaded documents.
+- Source: courses(1).csv, row 399","courses(1).csv, row 399",,,
+14,course_code,1,What is the course code for Computer Vision?,schedule_agent,schedule_agent,True,False,"**Computer Vision** (CSL7360)
+- Programme/batch: VC-spec/Elec
+- Department: Computer Science and Engineering
+- Instructor: Deepak Mishra
+- Credits: 3
+- L-T-P: 3-0-0
+- Slot: I
+- Source: courses(1).csv, row 411","courses(1).csv, row 411",,,
+15,course_slot,1,Which slot is assigned to Computer Vision (CSL7360)?,schedule_agent,schedule_agent,True,False,"**Computer Vision** (CSL7360)
+- Programme/batch: VC-spec/Elec
+- Department: Computer Science and Engineering
+- Instructor: Deepak Mishra
+- Credits: 3
+- L-T-P: 3-0-0
+- Slot: I
+- Source: courses(1).csv, row 411","courses(1).csv, row 411",,,
+16,course_instructor,1,Who teaches Computer Vision (CSL7360)?,schedule_agent,schedule_agent,True,False,"**Computer Vision** (CSL7360)
+- Programme/batch: VC-spec/Elec
+- Department: Computer Science and Engineering
+- Instructor: Deepak Mishra
+- Credits: 3
+- L-T-P: 3-0-0
+- Slot: I
+- Source: courses(1).csv, row 411","courses(1).csv, row 411",,,
+17,course_details,1,How many credits does Computer Vision carry and what is its L-T-P structure?,schedule_agent,schedule_agent,True,False,"**Computer Vision** (CSL7360)
+- Programme/batch: VC-spec/Elec
+- Department: Computer Science and Engineering
+- Instructor: Deepak Mishra
+- Credits: 3
+- L-T-P: 3-0-0
+- Slot: I
+- Source: courses(1).csv, row 411","courses(1).csv, row 411",,,
+18,email_draft,1,Write an email to the instructor of CSL7650 that I need sick leave for 2 days.,email_agent,email_agent,True,False,"To: Gaurav Harit <gharit@iitj.ac.in>
+Subject: Request for Leave – CSL7650
+
+Subject: Request for Sick Leave  
+
+Dear Dr. Gaurav Harit,  
+
+I hope you are doing well. I am writing to request sick leave for two days due to [briefly mention reason, if applicable]. I apologize for any inconvenience this may cause and appreciate your understanding.  
+
+Please let me know if there is any work or assignment that I need to catch up on during my absence.  
+
+Thank you for your time and support.  
+
+Best regards,  
+[Student Name]  
+[Roll Number]  
+Course: Autonomous Systems (CSL7650)
+
+Please review and fill in the bracketed details before sending. This is a draft only; no email has been sent.","courses(1).csv, row 399 | faculty_emails.csv: Gaurav Harit record; https://www.iitj.ac.in/People/List?dept=computer-science-engineering&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd",,,
+19,email_draft,1,Draft a sick-leave email to the instructor of CSL7650 because I will be absent for two days.,email_agent,email_agent,True,False,"To: Gaurav Harit <gharit@iitj.ac.in>
+Subject: Request for Leave – CSL7650
+
+Subject: Request for Leave from CSL7650  
+
+Dear Dr. Gaurav Harit,  
+
+I hope this email finds you well. I am writing to request leave from the course CSL7650 for [requested period]. Due to [brief reason, e.g., personal commitment/health-related issue], I will be absent during this time.  
+
+If there are any assignments or materials covered during this period that I might have missed, I would greatly appreciate your guidance. Specifically, I would like to seek clarification on [specific topic/question, if applicable].  
+
+Thank you for your understanding and support.  
+
+Best regards,  
+[Student Name]  
+[Roll Number]
+
+Please review and fill in the bracketed details before sending. This is a draft only; no email has been sent.","courses(1).csv, row 399 | faculty_emails.csv: Gaurav Harit record; https://www.iitj.ac.in/People/List?dept=computer-science-engineering&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd",,,
+20,email_draft,1,Draft an email to the instructor of CSL7360 requesting permission for a make-up examination due to illness.,email_agent,email_agent,True,False,"To: Deepak Mishra <dmishra@iitj.ac.in>
+Subject: Request for Make-up Examination – CSL7360
+
+Subject: Request for Permission to Take Make-Up Examination  
+
+Dear Dr. Deepak Mishra,  
+
+I hope this email finds you well. I am writing to kindly request permission to take a make-up examination for the course CSL7360 – Computer Vision. This is due to unforeseen circumstances that prevented me from appearing for the scheduled examination.  
+
+I would be grateful if you could guide me on the process for arranging the make-up examination. Should there be any additional information or documentation required, please let me know.  
+
+Thank you for your understanding and support.  
+
+Best regards,  
+[Student Name]  
+[Roll Number]
+
+Please review and fill in the bracketed details before sending. This is a draft only; no email has been sent.","courses(1).csv, row 411 | faculty_emails.csv: Deepak Mishra record; https://www.iitj.ac.in/People/List?dept=computer-science-engineering&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd",,,
+21,email_draft,1,Write an email to the instructor of Computer Vision asking for help with the course.,email_agent,email_agent,True,False,"To: Deepak Mishra <dmishra@iitj.ac.in>
+Subject: Request for Assistance – CSL7360
+
+Subject: Request for Academic Assistance in Computer Vision  
+
+Dear Dr. Deepak Mishra,  
+
+I hope you are doing well. I am writing to seek your guidance regarding the course Computer Vision (CSL7360). I have a few questions regarding [specific topic/question], and I would greatly appreciate your assistance in understanding the concepts better.  
+
+Please let me know if you have any suggestions or resources that could help me clarify my doubts.  
+
+Thank you for your time and support.  
+
+Best regards,  
+[Student Name]  
+[Roll Number]
+
+Please review and fill in the bracketed details before sending. This is a draft only; no email has been sent.","courses(1).csv, row 411 | faculty_emails.csv: Deepak Mishra record; https://www.iitj.ac.in/People/List?dept=computer-science-engineering&c=1c8346b0-07a4-401e-bce0-7f571bb4fabd",,,
+22,out_of_scope,1,What are the available dining options on the campus?,orchestrator,orchestrator,False,True,I do not have reliable information for this question in the IIT Jodhpur academic documents and datasets provided. I cannot answer it without guessing.,,,,
+23,out_of_scope,1,What is the best way to reach the campus from Jodhpur city center?,orchestrator,orchestrator,False,True,I do not have reliable information for this question in the IIT Jodhpur academic documents and datasets provided. I cannot answer it without guessing.,,,,
+24,out_of_scope,1,What is the weather forecast in Jodhpur tomorrow?,orchestrator,orchestrator,False,True,I do not have reliable information for this question in the IIT Jodhpur academic documents and datasets provided. I cannot answer it without guessing.,,,,
+25,out_of_scope,1,Recommend a good restaurant near IIT Jodhpur.,orchestrator,orchestrator,False,True,I do not have reliable information for this question in the IIT Jodhpur academic documents and datasets provided. I cannot answer it without guessing.,,,,
